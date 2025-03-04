@@ -5,7 +5,7 @@ Testing Grok xAI Models using Streamlit with a simple interface.
 
 #### Simple usage:
 
-`streamlit run app.py`
+    streamlit run app.py
 
 ---
 Here’s how you can get started:
