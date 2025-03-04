@@ -47,7 +47,7 @@ This will install the Streamlit framework, which we use to build our interactive
 Organize your project directory so that you have all the necessary files in place:
 
     grok-xai-chat-app/
-    ├── main.py
+    ├── app.py
     └── logo-white.png
     
 You can change the logo name or even remove it.
