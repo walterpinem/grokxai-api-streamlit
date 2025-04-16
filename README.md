@@ -51,3 +51,5 @@ Organize your project directory so that you have all the necessary files in plac
     └── logo-white.png
     
 You can change the logo name or even remove it.
+
+Read the full explanation and tutorial on [**Testing Grok xAI API with Streamlit**](https://walterpinem.com/grok-xai-api/).
